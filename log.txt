@@ -1,0 +1,43 @@
+commit 66317311b7f90403b74cda34e52cc1133e91515e
+Author: Rishabh <iamrishab786@gmail.com>
+Date:   Thu Jan 12 18:03:53 2023 +0530
+
+    File2 created name in spider branch
+
+commit 5bda16d558b1926e8f38b2b99e8feb674b644f5e
+Author: Rishabh <iamrishab786@gmail.com>
+Date:   Thu Jan 12 18:02:25 2023 +0530
+
+    File1 created with content in spider branch
+
+commit 03d32d111f3fe13cf0950d86e1f3cf2c63fcb2b7
+Merge: e1b78af c68e8c4
+Author: Rishabh <iamrishab786@gmail.com>
+Date:   Thu Jan 12 17:58:27 2023 +0530
+
+    Merge branch 'Develop'
+    Mergiing Develop branch in master done successfully
+
+commit c68e8c4d3fdf97a0fb36016a9d36fb06fbe7b47a
+Author: Rishabh <iamrishab786@gmail.com>
+Date:   Thu Jan 12 17:57:51 2023 +0530
+
+    second commit in Devlope done
+
+commit e1b78afdae01f8d08e9edf8242aecb99b39578cf
+Author: Rishabh <iamrishab786@gmail.com>
+Date:   Thu Jan 12 17:55:33 2023 +0530
+
+    second commit in master branch done
+
+commit 746b108b1ce3825606f95637b3cbcd39d1ca9c07
+Author: Rishabh <iamrishab786@gmail.com>
+Date:   Thu Jan 12 17:53:24 2023 +0530
+
+    first commit in Develop branch done
+
+commit 577795bccc509cc6db6001027f70e9c02d5f08d3
+Author: Rishabh <iamrishab786@gmail.com>
+Date:   Thu Jan 12 17:51:01 2023 +0530
+
+    Initial commit done
